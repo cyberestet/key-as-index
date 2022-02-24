@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/key-as-index/static/css/main.fca62bcd.css",
+    "main.js": "/key-as-index/static/js/main.f61e1a00.js",
+    "index.html": "/key-as-index/index.html",
+    "main.fca62bcd.css.map": "/key-as-index/static/css/main.fca62bcd.css.map",
+    "main.f61e1a00.js.map": "/key-as-index/static/js/main.f61e1a00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca62bcd.css",
+    "static/js/main.f61e1a00.js"
+  ]
+}
